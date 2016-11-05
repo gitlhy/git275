@@ -19,5 +19,5 @@ gitlhy
 
 My Favorite 3 Programming Languages
 ===================================
-. aotoit
+1. aotoit
 
