@@ -19,9 +19,9 @@ gitlhy
 
 My Favorite 3 Programming Languages
 ===================================
-. Autoit
-. PHP
-. Javascript
+4. Autoit
+4. PHP
+4. Javascript
 
 ---
 
