@@ -5,9 +5,9 @@
 </head>
 <body>
 
-<div style="color: violet;font-size: 24px;">
+<div style="color: violet;font-size: 28px;">
 	
-	Hello world ! <br>>
+	Hello world ! <br>
 </div>>
 
 </body>
